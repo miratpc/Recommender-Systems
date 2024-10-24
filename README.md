@@ -1,4 +1,4 @@
-#RECOMMENDER SYSTEMS USING C++
+## RECOMMENDER SYSTEMS USING C++
 
 ## Overview
 This project focuses on developing a movie recommendation system using neighborhood-based collaborative filtering algorithms. The system analyzes past user interactions, such as views, ratings, and purchases, to generate personalized movie recommendations.
